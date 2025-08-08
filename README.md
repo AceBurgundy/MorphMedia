@@ -6,8 +6,6 @@
 
 Whether you're refining noisy recordings, enhancing images in bulk, or preparing videos for publishing, **MorphMedia** puts professional-grade tools in a clean, intuitive interface.
 
----
-
 ## 🚀 **Key Features**:
 
 ### 🗂️ **File Manager UI**
@@ -41,8 +39,6 @@ Whether you're refining noisy recordings, enhancing images in bulk, or preparing
 
 * Quickly identify video content with auto-generated thumbnail previews.
 
----
-
 ## 🔧 **Installation**:
 
 1. **Download the App**:
@@ -52,8 +48,6 @@ Whether you're refining noisy recordings, enhancing images in bulk, or preparing
 2. **Run the Application**:
 
    * Open the portable `.exe` — no installation needed.
-
----
 
 ## 🖥️ **Usage Overview**:
 
@@ -69,8 +63,6 @@ Whether you're refining noisy recordings, enhancing images in bulk, or preparing
 
 * Adjust settings and click **Process** to apply changes to your selected files.
 
----
-
 ## 🧑‍💻 **Built With**:
 
 * **Python** – Main programming language
@@ -79,21 +71,10 @@ Whether you're refining noisy recordings, enhancing images in bulk, or preparing
 * **Pillow (PIL)** – Image preview and manipulation
 * **AI Models (ONNX/PyTorch)** – For noise removal and upcoming tools
 
----
-
-## 🖌️ **Customization**:
-
-* Built on `customtkinter` for modern UI and easy visual customization.
-* UI components can be adjusted to match user workflow.
-
----
-
 ## 📣 **Contact**:
 
 Have a question or suggestion?
 📧 [Email](mailto:Samadriansabalo99@gmail.com)
-
----
 
 ## 📅 **Planned Features**:
 
@@ -103,14 +84,10 @@ Have a question or suggestion?
 * **Multilingual UI Support**
 * **Cloud Sync or Export Options**
 
----
-
 ## 📝 **License**:
 
 **MorphMedia** is open-source and released under the **MIT License**.
 See the `LICENSE` file for full terms.
-
----
 
 ## 🎉 **Thank You for Using MorphMedia!** 🎉
 
